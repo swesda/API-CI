@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2mtm0v65u1dkmmop?svg=true)](https://ci.appveyor.com/project/swesda/ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/pgc8cmkgg8n7lyy5?svg=true)](https://ci.appveyor.com/project/swesda/api-ci)
